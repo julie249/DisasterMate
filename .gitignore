@@ -1,0 +1,16 @@
+.env
+*.env
+Backend/.env
+Frontend/.env
+backend/.env
+frontend/.env
+
+node_modules
+Backend/node_modules
+Frontend/node_modules
+backend/node_modules
+frontend/node_modules
+
+dist
+build
+CHATBOT_IMPLEMENTATION.md
